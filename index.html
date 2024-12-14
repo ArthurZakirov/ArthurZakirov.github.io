@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+---
+<div class="home">
+  <h1>Welcome to My GitHub Pages</h1>
+  <div class="posts">
+    {%- for post in site.posts -%}
+    <article>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <time>{{ post.date | date: "%B %d, %Y" }}</time>
+      {{ post.excerpt }}
+    </article>
+    {%- endfor -%}
+  </div>
+</div>

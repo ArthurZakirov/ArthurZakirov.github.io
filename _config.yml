@@ -1,0 +1,8 @@
+title: My GitHub Pages
+description: My personal website hosted on GitHub Pages
+baseurl: ""
+url: ""
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
