@@ -1,0 +1,93 @@
+/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/jekyll-4.3.4/lib/jekyll.rb:28: warning: csv was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add csv to your Gemfile or gemspec. Also contact author of jekyll-4.3.4 to add csv into its gemspec.
+/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/safe_yaml-1.0.5/lib/safe_yaml/transform.rb:1: warning: base64 was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add base64 to your Gemfile or gemspec. Also contact author of safe_yaml-1.0.5 to add base64 into its gemspec.
+Configuration file: /Users/arthurzakirov/personal/ArthurZakirov.github.io/_config.yml
+            Source: /Users/arthurzakirov/personal/ArthurZakirov.github.io
+       Destination: /Users/arthurzakirov/personal/ArthurZakirov.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.027 seconds.
+ Auto-regeneration: enabled for '/Users/arthurzakirov/personal/ArthurZakirov.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+      Regenerating: 3 file(s) changed at 2024-12-14 14:35:11
+                    _posts/2024-12-14-about-me.md
+                    _posts/2024-12-14-projects.md
+                    _posts/2024-12-14-contact.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.031765 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2024-12-14 14:35:26
+                    _posts/2024-12-14-about-me.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.035659 seconds.
+                    
+[2024-12-14 14:35:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2024-12-14 14:35:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2024-12-14 14:35:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2024-12-14 14:35:29
+                    _posts/2024-12-14-contact.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.025938 seconds.
+                    
+[2024-12-14 14:35:29] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2024-12-14 14:39:44
+                    _posts/2024-12-14-projects.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.016067 seconds.
+                    
+[2024-12-14 14:39:45] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2024-12-14 14:39:45] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 2 file(s) changed at 2024-12-14 14:40:46
+                    index.html
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.011388 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2024-12-14 14:40:46
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.013374 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2024-12-14 14:41:02
+                    index.html
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.013741 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2024-12-14 14:41:07
+                    index.html
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.019067 seconds.
+                    
+[2024-12-14 14:41:07] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/arthurzakirov/.rbenv/versions/3.3.0/lib/ruby/gems/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 2 file(s) changed at 2024-12-14 14:43:55
+                    index.html
+                    jekyll.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.021614 seconds.
+                    
